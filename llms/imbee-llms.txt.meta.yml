@@ -1,0 +1,7 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.imbee.io/llms.txt
+note: >-
+  Saved verbatim from the provider-published /llms.txt at the imbee.io docs/site
+  host. Companion sidecar for llms/imbee-llms.txt (the raw file carries no
+  frontmatter so its verbatim content is preserved).
